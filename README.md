@@ -1,11 +1,11 @@
 # FourierAnalysisForSignalReconstruction
-This code serves as a basis for further developing skills in computational modelling and singal processing. 
+This code serves as a basis for further developing skills in computational modelling and signal processing. 
 
 # Software
 Python 3.12.4
 
 # Files 
-'FourierAnalysis_SignalReconstruction.py' - main code
+'FourierAnalysis_SignalReconstructionModel.py' - main code
 'README.md' - this file
 
 # How to run
