@@ -10,6 +10,8 @@ Python 3.12.4
 
 # How to run
 Download files (should automatically download as zip file), and then extract.
+<br/>
+For best experience, use Spyder environment. 
 
 # Project Summary
 A noisy multi-frequency signal is generated and plotted on a time domain where it is then converted to a frequency domain through the Fast Fourier Transform (FFT) algorithm. Dominanat frequencies are identified and highlighted for further analysis.
